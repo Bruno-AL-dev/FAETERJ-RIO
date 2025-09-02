@@ -15,7 +15,7 @@
    nova média for maior ou igual a 6, imprimir “Aprovado”, caso
    contrário, imprimir “Reprovado”.
 */
-package pob.l01_selecao;
+package pob.l02_selecao;
 
 import java.util.Scanner;
 

@@ -12,7 +12,7 @@
    0, imprima “Negativo”, se o número lido for menor que 0 e 
    imprima “Nulo”, se o número lido for igual a 0.
 */
-package pob.l01_selecao;
+package pob.l02_selecao;
 
 import java.util.Scanner;
 

@@ -6,27 +6,29 @@
    
    ESTUDO DIRIGIDO
    Estruturas de Seleção IF-ELSE e Estrutura de Seleção Ternária
-   
-   Exercício 4: construir um programa em Java que leia um
-   número inteiro e imprima “PAR”, se o número for par e 
-   imprima “ÍMPAR”, se o número for ímpar.
+
+   Exercício 3: construir um programa em Java que leia 2 números
+   inteiros e imprima o maior número lido.
 */
-package pob.l01_selecao;
+package pob.l02_selecao;
 
 import java.util.Scanner;
 
-public class Ex04VerificaParImpar {
+public class Ex03ComparaDoisNumeros {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Informe o primeiro numero: ");
-        int num = sc.nextInt();
+        int num1 = sc.nextInt();
 
-        if (num % 2 == 0)
+        System.out.print("Informe o segundo numero: ");
+        int num2 = sc.nextInt();
+
+        if (num1 >= num2)
         {
-            System.out.println("Par");
+            System.out.println("Maior numero lido: " + num1);
         } else {
-            System.out.println("Impar");
+            System.out.println("Maior numero lido: " + num2);
         }
 
         sc.close();

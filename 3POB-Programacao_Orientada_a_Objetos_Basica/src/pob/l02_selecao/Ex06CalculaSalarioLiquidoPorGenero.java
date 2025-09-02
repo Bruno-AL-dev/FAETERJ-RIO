@@ -14,7 +14,7 @@
    calcular, armazenar e imprimir um desconto de 3% e o salário
    líquido.
 */
-package pob.l01_selecao;
+package pob.l02_selecao;
 
 import java.util.Scanner;
 

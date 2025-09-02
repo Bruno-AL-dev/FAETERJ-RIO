@@ -6,17 +6,16 @@
    
    ESTUDO DIRIGIDO
    Estruturas de Seleção IF-ELSE e Estrutura de Seleção Ternária
-
-   Exercício 2: construir um programa em Java que leia a idade
+   
+   Exercício 1: construir um programa em Java que leia a idade
    de uma pessoa e imprima “Maior de idade”, se a idade lida
-   for maior ou igual a 18 e imprima “Menor de idade”, caso
-   contrário.
+   for maior ou igual a 18.
 */
-package pob.l01_selecao;
+package pob.l02_selecao;
 
 import java.util.Scanner;
 
-public class Ex02VerificaMaioridadeCompleto {
+public class Ex01VerificaMaioridade {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -26,8 +25,6 @@ public class Ex02VerificaMaioridadeCompleto {
         if (idade >= 18)
         {
             System.out.println("Maior de idade");
-        } else {
-            System.out.println("Menor de idade");
         }
 
         sc.close();

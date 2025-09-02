@@ -13,7 +13,7 @@
    for igual a 18, imprimir “Serviço Militar Obrigatório”, caso
    contrário, imprimir “Isento de Serviço Militar”.
 */
-package pob.l01_selecao;
+package pob.l02_selecao;
 
 import java.util.Scanner;
 

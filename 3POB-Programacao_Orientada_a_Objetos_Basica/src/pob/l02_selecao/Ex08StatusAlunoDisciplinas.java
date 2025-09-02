@@ -14,7 +14,7 @@
    “Recuperação” e se a quantidade for maior que 5, imprimir
    “Reprovado”.
 */
-package pob.l01_selecao;
+package pob.l02_selecao;
 
 import java.util.Scanner;
 

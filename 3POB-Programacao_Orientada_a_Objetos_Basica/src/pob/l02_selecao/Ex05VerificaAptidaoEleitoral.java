@@ -13,7 +13,7 @@
    imprimir “Apto a ser eleitor”, imprimir “Inapto a ser
    eleitor”, caso contrário.
 */
-package pob.l01_selecao;
+package pob.l02_selecao;
 
 import java.util.Scanner;
 
