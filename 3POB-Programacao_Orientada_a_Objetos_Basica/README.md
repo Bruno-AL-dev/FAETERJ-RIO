@@ -18,5 +18,17 @@ O código-fonte está organizado em pacotes dentro do diretório `src/`, onde ca
 -   **Conceitos Praticados:** Uso de `if/else`, `else if`, em cenários como validação de idade, análise de triângulos e outras verificações fundamentais.
 -   **Código-fonte:** `src/pob/l02_selecao/`
 
+### Lista de Exercícios 03: Estruturas de Repetição
+
+-   **Descrição:** Conjunto de 5 exercícios para treinar o uso de laços de repetição em diferentes cenários.
+-   **Conceitos Praticados:** Implementação de loops com `for`, `while` e `do-while`, uso de contadores, acumuladores e lógica de repetição aninhada.
+-   **Código-fonte:** `src/pob/l03_repeticao/`
+
+### Lista de Exercícios 04: Manipulação de Arrays
+
+-   **Descrição:** Lista com 5 exercícios focados na criação e manipulação de arrays unidimensionais.
+-   **Conceitos Praticados:** Declaração, preenchimento, iteração, busca de elementos, inversão e cálculos sobre os valores de um array.
+-   **Código-fonte:** `src/pob/l04_arrays/`
+
 ---
 *Este documento será atualizado conforme novas listas de exercícios e projetos forem concluídos.*
