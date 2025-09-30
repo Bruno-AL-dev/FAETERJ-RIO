@@ -49,6 +49,5 @@ public class Ex05BuscaElementoArray {
         if (!encontrou) {
             System.out.println("Número não encontrado.");
         }
-        sc.close();
     }
 }

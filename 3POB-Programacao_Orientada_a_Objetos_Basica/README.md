@@ -30,11 +30,5 @@ O código-fonte está organizado em pacotes dentro do diretório `src/`, onde ca
 -   **Conceitos Praticados:** Declaração, preenchimento, iteração, busca de elementos, inversão e cálculos sobre os valores de um array.
 -   **Código-fonte:** `src/pob/l04_arrays/`
 
-### Lista de Exercícios 05: Manipulação de `ArrayList`
-
--   **Descrição:** Série com 5 exercícios práticos sobre a utilização da classe `ArrayList` para gerenciar coleções dinâmicas. Esta lista aprofunda a organização do código com a separação de responsabilidades em pacotes `dominio` (lógica de negócio) e `controle` (interação com o usuário).
--   **Conceitos Praticados:** `ArrayList<T>`, adição (`add`) e remoção (`remove`) de elementos, iteração, ordenação com `Collections.sort()`, e a estruturação de projetos em diferentes pacotes.
--   **Código-fonte:** `src/pob/l05_arraylist/`
-
 ---
 *Este documento será atualizado conforme novas listas de exercícios e projetos forem concluídos.*
