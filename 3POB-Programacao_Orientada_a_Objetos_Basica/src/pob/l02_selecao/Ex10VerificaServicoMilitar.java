@@ -20,7 +20,6 @@ import java.util.Scanner;
 public class Ex10VerificaServicoMilitar {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        float desconto, salarioLiquido;
 
         System.out.print("Informe o ano de nascimento: ");
         int ano = sc.nextInt();
